@@ -10,5 +10,4 @@ client.on('message', msg => {
     msg.reply('Pong!');
   }
 });
-
-client.login('token!!');
+client.login('NTIwNTQ0ODQ0MTM4MDIwODY0.Duvb5w.B3nO5cHGcFPhZBa8KBeKcYK8GrY');
